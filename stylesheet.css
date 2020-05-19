@@ -1,0 +1,77 @@
+body {
+	background-color: #505050;
+}
+
+.main {
+	margin-top: 15px;
+	width: 75%;
+	border: solid 2px #222222;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	padding-left: 4%;
+	padding-right: 4%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.photo {
+	margin-top: 2em;
+	margin-left: 9px;
+	margin-right: 13px;
+	margin-bottom: 1em;
+	border: solid 1px #222222;
+	line-height: 0px;
+}
+#photo-right {
+	float: right;
+	margin-left: 14px;
+	margin-right: 8px;
+}
+#photo-left {
+	float: left;
+	margin-right: 14px;
+	margin-left: 8px;
+}
+
+p {
+	font-family: arial,helvetica,sans-serif;
+	font-size: 10pt;
+	line-height: 13pt;
+	color: #222222;
+}
+
+h1 {
+	font-family: palatino,georgia,serif;
+	color: #222222;
+}
+
+h3 {
+	font-family: palatino,georgia,serif;
+	color: #222222;
+	border-bottom: 1px solid #222222;
+	margin-top: 2em;
+	clear: both;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.title {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.validation {
+	font-size: 80%;
+	text-align: right;
+	font-style: italic;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
